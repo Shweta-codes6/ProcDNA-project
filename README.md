@@ -1,3 +1,3 @@
 # ProcDNA-project
 
-Detailed description: https://shorturl.at/xzDZ9
+Detailed Project Description: https://shorturl.at/xzDZ9
